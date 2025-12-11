@@ -4,6 +4,10 @@
 
 Backend Repository: [Hugging Face Space](https://huggingface.co/spaces/dangminh214/Spam-Email-Classifier/tree/main)
 
+Demo: 
+![Demo image](image.png)
+
+URL: [Online Demo](https://spam-email-frontend-nu.vercel.app/)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
