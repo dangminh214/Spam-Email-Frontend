@@ -1,4 +1,9 @@
-# React + TypeScript + Vite
+# Spam Email Classifier
+
+## This is the frontend to demonstrate client which is connected to API of pkl model to classify spam and legit emails
+
+Backend Repository: [Hugging Face Space](https://huggingface.co/spaces/dangminh214/Spam-Email-Classifier/tree/main)
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
